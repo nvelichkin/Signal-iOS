@@ -21,7 +21,7 @@
 #import "TSErrorMessage.h"
 #import "TSGroupThread.h"
 #import <AxolotlKit/NSData+keyVersionByte.h>
-#import <Curve25519Kit/Curve25519.h>
+#import <25519/Curve25519.h>
 #import <SignalCoreKit/NSDate+OWS.h>
 #import <SignalCoreKit/SCKExceptionWrapper.h>
 #import <SignalServiceKit/SignalServiceKit-Swift.h>

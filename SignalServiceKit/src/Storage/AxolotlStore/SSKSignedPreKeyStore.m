@@ -8,7 +8,7 @@
 #import "SSKPreKeyStore.h"
 #import <AxolotlKit/AxolotlExceptions.h>
 #import <AxolotlKit/NSData+keyVersionByte.h>
-#import <Curve25519Kit/Ed25519.h>
+#import <25519/Ed25519.h>
 #import <SignalServiceKit/SignalServiceKit-Swift.h>
 
 NS_ASSUME_NONNULL_BEGIN

@@ -4,7 +4,7 @@
 
 #import "OWSProvisioningCipher.h"
 #import <CommonCrypto/CommonCrypto.h>
-#import <Curve25519Kit/Curve25519.h>
+#import <25519/Curve25519.h>
 #import <HKDFKit/HKDFKit.h>
 #import <SignalCoreKit/Cryptography.h>
 

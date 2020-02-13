@@ -16,7 +16,7 @@
 #import "UIView+OWS.h"
 #import "UpdateGroupViewController.h"
 #import <ContactsUI/ContactsUI.h>
-#import <Curve25519Kit/Curve25519.h>
+#import <25519/Curve25519.h>
 #import <SignalCoreKit/NSDate+OWS.h>
 #import <SignalMessaging/Environment.h>
 #import <SignalMessaging/OWSAvatarBuilder.h>

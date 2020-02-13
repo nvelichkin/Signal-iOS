@@ -14,7 +14,7 @@
 #import "TSRequest.h"
 #import <AxolotlKit/NSData+keyVersionByte.h>
 #import <AxolotlKit/SignedPreKeyRecord.h>
-#import <Curve25519Kit/Curve25519.h>
+#import <25519/Curve25519.h>
 #import <SignalCoreKit/Cryptography.h>
 #import <SignalCoreKit/NSData+OWS.h>
 #import <SignalMetadataKit/SignalMetadataKit-Swift.h>

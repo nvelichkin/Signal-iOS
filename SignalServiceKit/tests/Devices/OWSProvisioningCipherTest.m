@@ -3,7 +3,7 @@
 //
 
 #import "SSKBaseTestObjC.h"
-#import <Curve25519Kit/Curve25519.h>
+#import <25519/Curve25519.h>
 #import <SignalCoreKit/Cryptography.h>
 #import <SignalServiceKit/OWSProvisioningCipher.h>
 

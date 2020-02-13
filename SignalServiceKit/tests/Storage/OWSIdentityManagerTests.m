@@ -7,7 +7,7 @@
 #import "OWSRecipientIdentity.h"
 #import "SSKBaseTestObjC.h"
 #import "SSKEnvironment.h"
-#import <Curve25519Kit/Curve25519.h>
+#import <25519/Curve25519.h>
 #import <SignalCoreKit/Randomness.h>
 #import <SignalServiceKit/SignalServiceKit-Swift.h>
 

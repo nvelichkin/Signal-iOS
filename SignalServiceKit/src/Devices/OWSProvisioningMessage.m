@@ -5,7 +5,7 @@
 #import "OWSProvisioningMessage.h"
 #import "OWSProvisioningCipher.h"
 #import <AxolotlKit/NSData+keyVersionByte.h>
-#import <Curve25519Kit/Curve25519.h>
+#import <25519/Curve25519.h>
 #import <HKDFKit/HKDFKit.h>
 #import <SignalServiceKit/SignalServiceKit-Swift.h>
 
