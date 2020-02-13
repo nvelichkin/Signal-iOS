@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SignalServiceKit"
-  s.version          = "0.9.0"
+  s.version          = "0.9.1"
   s.summary          = "An Objective-C library for communicating with the Signal messaging service."
 
   s.description      = <<-DESC
@@ -40,7 +40,6 @@ An Objective-C library for communicating with the Signal messaging service.
     "SignalServiceKit/Resources/schema.sql"
   ]
 
-  s.dependency 'Curve25519Kit'
   s.dependency 'CocoaLumberjack'
   s.dependency 'AFNetworking'
   s.dependency 'AxolotlKit'
